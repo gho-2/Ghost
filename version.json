@@ -1,0 +1,1 @@
+{"code":"200","version":"4.6","changelog":" [SAMSUNG]\r\n - Add unlock FRP all version, all model (paid service)\r\n [MTP] - Fix Read info MTP error after enable adb fail\r\n - Fix login API bug\r\n - Fix getting service status stuck\r\n - Fix file missing problem\r\n - Fix some bugs","url":"https:\/\/samfw.com\/blog\/samfw-frp-tool-1-0-remove-samsung-frp-one-click"}
